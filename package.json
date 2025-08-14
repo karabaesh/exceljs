@@ -88,7 +88,7 @@
     "dayjs": "^1.8.15",
     "promish": "^5.1.1",
     "sax": "^1.2.4",
-    "tmp": "^0.1.0",
+    "tmp": "^0.2.4",
     "unzipper": "^0.9.12"
   },
   "devDependencies": {
